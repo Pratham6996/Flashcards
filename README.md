@@ -10,9 +10,6 @@ A simple web application that allows users to create, edit, and delete flashcard
 - Toggle the visibility of flashcard answers.
 - Persist flashcard data in the browser's local storage.
 
-## Demo
-
-![Flashcard App Screenshot](screenshot.png) <!-- Add a screenshot of your app here -->
 
 ## Getting Started
 
